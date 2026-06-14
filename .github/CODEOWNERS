@@ -1,0 +1,15 @@
+# Responsable global del repositorio
+* @Dize56
+
+# Código fuente
+/src/ @Dize56
+/scripts/ @Dize56
+
+# Tests
+/tests/ @Dize56
+
+# Documentación
+/docs/ @Dize56
+
+# Workflows y configuración de GitHub
+/.github/ @Dize56
